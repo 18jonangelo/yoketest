@@ -1,0 +1,564 @@
+@font-face {
+  font-family: Avenir;
+  src: url('Avenir.ttc');
+}
+@media only screen and (min-device-width: 300px) and (max-device-width: 767px) and (orientation: portrait) {
+  body, html {
+    /* height: 100%!important; */
+    overflow: auto !important;
+    max-height: 100% !important;
+    background-color: #EAC62A !important;
+
+
+  }
+
+  h1{
+
+    font-family: Avenir;
+    font-size: 50px;
+    color: #666666 !important;
+    font-weight: bold;
+    position: absolute;
+    top: 150px;
+    margin-left: 15px;
+    text-align: left;
+
+  }
+  .workhead{
+    font-family: Avenir;
+    font-size: 50px;
+    color: #666666 !important;
+    font-weight: bold;
+    position: relative;
+    top: 150px;
+    margin-left: 15px;
+    text-align: left;
+    margin-top: -100px;
+
+  }
+
+  .workhead{
+    font-family: Avenir;
+    font-size: 50px;
+    color: #666666 !important;
+    font-weight: bold;
+    position: relative;
+    top: 150px;
+    margin-left: 15px;
+    text-align: left;
+    margin-top: -100px;
+
+  }
+  #aboutimg {
+      display: none;
+    }
+#aboutusweb{
+  display: none;
+}
+
+
+  .footadd{
+max-height: 100px;
+}
+
+    .clients2 {
+      display: none;
+    }
+
+.aboutus{
+  font-family: Avenir;
+  font-size: 17.5px;
+  color: #4D4D4D;
+  font-weight:normal;
+  position: relative;
+  top: -1330px;
+  text-align: left;
+  display: block;
+  /* display: inline-block; */
+ margin-left: 6%;
+
+}
+
+    .aboutimg2 img {
+        margin-top: 20%;
+        margin-left: -5%;
+    max-width:120%;
+        background-position: center;
+        /* Center the image */
+        background-repeat: no-repeat;
+        /* Do not repeat the image */
+        background-size: cover;
+        /* Resize the background image to cover the entire container */
+      }
+
+#carouselcontainer{
+  display: none;
+}
+.slide001 img{
+margin-top: 100px;
+position: relative;
+bottom: 30px;
+}
+
+  .footparagraph {
+    font-family: Avenir;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: -300px;
+    text-align: center;
+    padding-top: 30px;
+
+  }
+    .footparagraph1 {
+      font-family: Avenir;
+      font-size: 20px;
+      color: white;
+      font-weight: bold;
+      position: relative;
+      top: -1300px;
+      text-align: center;
+      padding-top: 30px;
+
+    }
+
+
+
+      #quote1 {
+        font-family: Avenir;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        position: relative;
+        top: -1300px;
+        text-align: center;
+        border: solid white 2px;
+        border-radius: 5%;
+        margin-left: 30%;
+        width: 150px;
+        padding: 4px 6px 4px 6px;
+      }
+
+
+
+      #secondlogo1 {
+        width: 150px;
+        margin-left: 5%;
+        position: relative;
+        top: -1300px;
+      }
+
+
+        #footadd1 p {
+          font-family: Avenir;
+          font-size: 24px;
+          color: white;
+          font-weight:normal;
+          position: relative;
+          top: -1350px;
+          text-align: left;
+          display: block;
+          /* display: inline-block; */
+         margin-left: 6%;
+
+
+        }
+
+        #socialcont1{
+          display: inline-block;s
+          width: 30px;
+          margin-left: 100px;
+        position: relative;
+          top:-1500px;
+        }
+          .socialcont1 a{
+            position: relative;
+            right: 80px;
+            bottom: 1px;
+            width: 100px;
+            margin-left: 0%;
+          display:inline-block;
+
+
+          }
+
+
+  .quote {
+    font-family: Avenir;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: -300px;
+    text-align: center;
+    border: solid white 2px;
+    border-radius: 5%;
+    margin-left: 33%;
+    width: 150px;
+    padding: 4px 6px 4px 6px;
+  }
+
+  .logo-image {
+    width: 100px;
+    overflow: hidden;
+  }
+
+  .secondlogo {
+    width: 150px;
+    margin-left: 5%;
+    position: relative;
+    top: -250px;
+  }
+
+    .knowmore11 img{
+      position:absolute;
+      top: 100px;
+      left: 2%;
+      max-width: 400px;
+
+    }
+
+
+  .footadd p {
+    font-family: Avenir;
+    font-size: 24px;
+    color: white;
+    font-weight:normal;
+    position: relative;
+    top: -300px;
+    text-align: left;
+    display: block;
+    /* display: inline-block; */
+   margin-left: 6%;
+
+
+  }
+
+  .footcontainer{
+    position: relative;
+    top:10px;
+    bottom: -20px;
+    margin-bottom: -15%;
+  }
+
+  .socialmediamob{
+  width:100px;
+  height: 10px;
+  position: relative;
+  margin-top:-400px;
+
+}
+#socialcont{
+  display: inline-block;s
+  width: 30px;
+  margin-left: 100px;
+position: relative;
+  top:-500px;
+}
+  .socialcont a{
+    position: relative;
+    right: 80px;
+    bottom: 1px;
+    width: 100px;
+    margin-left: 0%;
+  display:inline-block;
+
+
+  }
+
+  .fa {
+
+    position: relative;
+    bottom: 7px;
+    right:100px;
+    padding-top:-100px;
+    padding: 20px;
+    padding-right: 1px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+#carouselcontainer {
+    display: none;
+  }
+
+  .navbar {
+    padding-right: 20px;
+
+  }
+
+  .navbar-toggler {
+    margin-right: 20px;
+  }
+
+  .logos {
+    opacity: 100;
+  }
+
+  .logostag {
+    opacity: 0;
+  }
+
+  .navwho {
+    margin-right: 20px;
+  }
+
+  .worknav {
+    margin-right: 20px;
+  }
+
+  .clientnav {
+    margin-right: 20px;
+  }
+
+  .teamnav {
+    margin-right: 20px;
+  }
+
+  .hellonav {
+    margin-right: 20px;
+  }
+
+  .thoughtsnav {
+    margin-right: 20px;
+  }
+
+  .nav-item {
+    text-align: center;
+  }
+
+  section {
+    padding-bottom: 0;
+    margin-top: 30%;
+  }
+
+  .clients1 img {
+    display: none;
+  }
+
+  .clients2 img {
+    margin-top: 10%;
+    margin-left: -5%;
+    width: 120%;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+  }
+
+  .aboutimg img {
+    display: none;
+  }
+
+
+  .footcont img {
+    display: none;
+  }
+
+  .footcont {
+    position: absolute;
+    bottom: 0px;
+  }
+
+  .footwrap img {
+    display: block;
+    background-size: cover;
+    width: 110%;
+    max-height: 10%;
+    margin-left: -5%;
+  }
+
+  .foot1 img {
+    width: 100%;
+    padding-top: 2px;
+  }
+
+  .carousel {
+    max-height: 190px;
+  }
+
+  .carousel-item.slide001 {
+    max-height: 420px;
+  }
+
+  .carousel-item {
+    margin-top: -8%;
+    height: 100vh;
+    max-height: 200px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .carousel {
+    max-height: 700px;
+  }
+
+  /* .socialmediamob {
+    display: none;
+  } */
+
+  .footermobile {
+    background-color: #EAC62A !important;
+  }
+
+  .socialmediamob1 {
+    display: inline-block;
+    width: 10%;
+    width: 100vh;
+    margin-left: 60px;
+  }
+
+  .socialmediamob1 a {
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  body, html {
+    /* height: 100%!important; */
+    overflow: auto !important;
+    max-height: 100% !important;
+  }
+
+  .knowmore img {
+    position: absolute;
+    top: 30%;
+    left: -35%;
+    width: 70%;
+  }
+
+  .socialmediamob1 {
+    display: none;
+  }
+
+  .socialmediamob1 {
+    display: inline-block;
+    width: 5%;
+    width: 100vh;
+    margin-left: 60px;
+  }
+
+  .navbar {
+    padding-right: 30px;
+    max-width: 100%;
+  }
+
+  .navhome {
+    margin-right: 10px;
+  }
+
+    .navwho {
+    margin-right: 50px;
+  }
+
+  .worknav {
+    margin-right: 40px;
+  }
+
+  .clientnav {
+    margin-right: 40px;
+  }
+
+  .teamnav {
+    margin-right: 40px;
+  }
+
+  .hellonav {
+    margin-right: 40px;
+  }
+
+  .thoughtsnav {
+    margin-right: 40px;
+  }
+
+  .nav-item {
+    text-align: center;
+  }
+
+  section {
+    padding-bottom: 0;
+    margin-top: 20%;
+  }
+
+  .knowmore img {
+    margin-left: 30%;
+    width: 400px;
+  }
+
+  .foot1 img {
+    width: 100%;
+    padding-top: 42px;
+  }
+
+  .carousel-item {
+    height: 100vh;
+    max-height: 400px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+/*
+ipad pro */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: portrait) {
+  body, html {
+    /* height: 100%!important; */
+    overflow: auto !important;
+    max-height: 100% !important;
+  }
+
+  .knowmore img {
+    position: absolute;
+    top: 20%;
+    left: -35%;
+    width: 50%;
+  }
+
+  .navbar {
+    padding-right: 10px;
+  }
+
+  .navbar-toggler {
+    margin-right: 15px;
+  }
+
+  .nav-item {
+    padding-right: 10px;
+    text-align: right;
+  }
+
+  section {
+    padding-bottom: 0;
+    margin-top: 10%;
+  }
+
+  .foot1 img {
+    width: 100%;
+    padding-top: 2px;
+  }
+
+  .carousel {
+    max-height: 800px;
+    margin-bottom: -10%;
+  }
+
+  .carousel-item {
+    height: 100vh;
+    max-height: 200px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
